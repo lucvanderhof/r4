@@ -5,3 +5,4 @@ Test repository
 - added feature F1.b
 - added feature F2
 - added feature F2.a
+- added feature F2.b
